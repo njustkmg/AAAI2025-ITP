@@ -71,3 +71,5 @@ sh get_distribution.sh <DATASET> <MODEL> <GPU_ID>
 sh test.sh <DATASET> <MODEL> <METHOD> <GPU_ID>
 ```
 
+## Acknowledgment
+Our Code is based on [Boosting Out-of-distribution Detection with Typical Features](https://github.com/alibaba/easyrobust/tree/main/examples/ood_detection/BATS).
